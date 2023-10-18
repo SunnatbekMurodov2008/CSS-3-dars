@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{ background-color: brown;
+    font-family: 'Pacifico', cursive;
+}
+.box{
+    background-color: white;
+
+    width: 500px;
+    height: 200px;
+    margin: 0px auto;
+    padding: 100px;
+
+
+}
